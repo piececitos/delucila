@@ -24,12 +24,12 @@ h1 {
   text-align: center;
 }
 
-@media only screen and (max-device-width : 480px) {
+/* @media only screen and (max-device-width : 480px) {
   body {
     background: #999;
     width: 100%;
   }
-}
+} */
 /* 
 h2 {
   color: deeppink;
